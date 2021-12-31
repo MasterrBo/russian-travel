@@ -1,0 +1,22 @@
+
+.header__links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+  padding: 18px 0 0 0;
+  line-height: 28px;
+  font-size: 24px;
+  font-weight: normal;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+/* .header__links:last-child {
+  color: red;
+} */
+
+/* .header__links:last-of-type {
+  color: red;
+} */
