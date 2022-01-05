@@ -14,10 +14,9 @@
   box-sizing: border-box;
 }
 
-/* .header__links:last-child {
-  color: red;
-} */
-
-/* .header__links:last-of-type {
-  color: red;
-} */
+@media screen and (max-width: 460px) {
+  .header__links{
+    line-height: 20px;
+    font-size: 18px;
+    }
+  }

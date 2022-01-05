@@ -1,0 +1,13 @@
+.place__content {
+  grid-area: content;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 400px) {
+  .place__content {
+    order: 4;
+    margin-top: -14px;
+    padding: 0 16px;
+  }
+}

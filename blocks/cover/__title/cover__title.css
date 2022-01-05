@@ -27,10 +27,18 @@
     font-size: 72px;
     line-height: 76px;
     margin: 0 0 16px;
+    max-width: 75%;
   }
 }
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 690px) {
+  .cover__title {
+    font-size: 69px;
+    line-height: 64px;
+  }
+}
+
+@media screen and (max-width: 500px) {
   .cover__title {
     padding: 33px 16px 0 16px;
     font-size: 32px;
