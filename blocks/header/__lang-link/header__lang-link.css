@@ -9,22 +9,15 @@
 }
 
 .header__lang-link:hover a {
-  text-decoration: underline;
   transition-duration: 1s;
   opacity: 0.5;
-
 }
 
-.header__lang-link a:active,
+/* .header__lang-link a:active,
 .header__lang-link a:focus {
   text-decoration: underline;
-}
-
-.header__lang-link:last-child a {
-  padding-right: 0;
-}
+} */
 
 .header__lang-link:first-child a {
-  /* text-decoration: underline; */
   padding-right: 12px;
 }

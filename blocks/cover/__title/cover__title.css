@@ -6,7 +6,6 @@
   max-width: 560px;
   text-align: center;
   padding: 245px 0 0 0;
-  /* white-space: pre-line; */
 }
 
 @media screen and (max-width: 1184px) {
@@ -24,8 +23,6 @@
 @media screen and (max-width: 767px) {
   .cover__title {
     padding: 33px 16px 0 16px;
-    font-size: 72px;
-    line-height: 76px;
     margin: 0 0 16px;
     max-width: 75%;
   }
@@ -40,9 +37,7 @@
 
 @media screen and (max-width: 500px) {
   .cover__title {
-    padding: 33px 16px 0 16px;
     font-size: 32px;
     line-height: 35px;
-    margin: 0 0 16px;
   }
 }

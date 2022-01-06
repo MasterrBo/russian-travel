@@ -7,3 +7,9 @@
   line-height: 22px; 
   font-weight: 400;
 }
+
+.place__link:hover {
+  transition-duration: 1s;
+  opacity: 0.5;
+  cursor: pointer;
+}
