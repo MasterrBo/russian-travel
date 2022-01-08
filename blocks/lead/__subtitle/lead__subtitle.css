@@ -11,13 +11,7 @@
 @media screen and (max-width: 1184px) {
   .lead__subtitle {
     padding: 0 0 56px;
-  }
-}
-
-@media screen and (max-width: 1184px) {
-  .lead__subtitle {
     max-width: 58.8%;
-    margin: 0 auto;
   }
 }
 

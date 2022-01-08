@@ -1,5 +1,5 @@
 
-.header__lang-link a {
+.header__lang-link {
   text-decoration: none;
   color: white;
   padding: 0;
@@ -8,16 +8,7 @@
   cursor: pointer;
 }
 
-.header__lang-link:hover a {
+.header__lang-link:hover {
   transition-duration: 1s;
   opacity: 0.5;
-}
-
-/* .header__lang-link a:active,
-.header__lang-link a:focus {
-  text-decoration: underline;
-} */
-
-.header__lang-link:first-child a {
-  padding-right: 12px;
 }

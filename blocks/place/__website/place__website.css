@@ -14,17 +14,16 @@
 }
 
 @media screen and (max-width: 630px) {
-  .place__website  {
-  align-self: start;
+  .place__website {
+    align-self: start;
   }
 }
 
 @media screen and (max-width: 400px) {
-  .place__website  {
-  display: flex;
-  flex-direction: column;
-  order: 2;
-  padding: 0 16px;
-  margin: 0;
+  .place__website {
+    display: flex;
+    flex-direction: column;
+    order: 2;
+    padding: 0 16px;
   }
 }
