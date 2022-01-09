@@ -5,6 +5,7 @@
   width: 100%;
   height: auto;
   object-fit: cover;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1271px) {
@@ -24,5 +25,6 @@
   .photo-grid__item {
     min-width: 288px;
     min-height: 216px;
+    /* margin: 0 16px; */
   }
 }
